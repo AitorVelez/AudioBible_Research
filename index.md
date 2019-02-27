@@ -1,3 +1,6 @@
+“I am Aitor Velez Tolosa, student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of lecturer Ricard Pillosu.”
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AitorVelez/AudioBible_Research/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

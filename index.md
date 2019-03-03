@@ -54,7 +54,14 @@ Sound effects are a core part of the experience.That is why you should include t
 
 Study the sound of other games like you would study their game mechanics. It makes sense, but that’s something we might all forget to do: look at what others do right or what they do wrong, focusing solely on the audio experience.
 
+## Establishing Audio Pillars
 
+Audio Pillars are high-level “filters” that distill the game’s full audio aesthetic and feature-set down to a handful of descriptors. I tend to use 3-5 of these and use somewhat flowery language to give an emotional connection to each pillar so people can relate to them at a human level and can understand what sort of feature (or set of features) would have to be implemented in order to properly have the Audio Pillar realized.
+
+Example of audio pillar: 
+
+“The Sound of a Worn-Down World that Evolves With You
+Our small community is among the few that still remain on Earth. Our world is overrun with fantastical creatures and supernatural events that can change the surroundings that we inhabit, but, in the end, we are still fighting for our very existence with the weapons and tools that we scrounge and forge together.”
 
 ## Main elements:
 

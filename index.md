@@ -107,11 +107,8 @@ List of things to keep in mind regarding technology:
 * Number of platforms that need to be supported
 * Multiplayer requirements (Over network?  Split-screen?  How many players?)
 * Memory and streaming limitations
-* Channel count limitations
-* DSP options
 * Environmental Effects (DSP)
-* Occlusion/Occluding options
-* Dynamic Mix options
+
 As for the implementation, we will have to be aware of how many layers will we need. How many sounds will be playing at the same moment?
 
 ## Audio Bible Structure

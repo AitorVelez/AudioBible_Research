@@ -1,5 +1,7 @@
 I am Aitor Velez Tolosa, student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year subject Project 2, under supervision of lecturer Ricard Pillosu.
 
+![WavesSound](https://media-assets-02.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-121288-fotolia_58186967_subscription_monthly_m--2x1--940.jpg)
+
 ## The audio designer and its responsibilities:
 
 * He is responsible for all the overall game sound including music and sound effects.
@@ -51,18 +53,13 @@ Sound effects are a core part of the experience.That is why you should include t
 
 **Learn from the sound of other games:**
 
-**Here’s the audio budget of 5 independent game studios:**
-
-**Keep It Sweet and Short:**
-
-**lower the volume:**
+Study the sound of other games like you would study their game mechanics. It makes sense, but that’s something we might all forget to do: look at what others do right or what they do wrong, focusing solely on the audio experience.
 
 
-## How to start an Audio Bible:
-
-You have to take into account the elements of Music, Sound-Design, Voice-Over, and Technology. In order to make a cohesive experience each element has to be taken into account and well balanced. If one element isn’t well implemented, the entire audio design can end up to be a failure.
 
 ## Elements to take into account:
+
+You have to take into account the elements of Music, Sound-Design, Voice-Over, and Technology. In order to make a cohesive experience each element has to be taken into account and well balanced. If one element isn’t well implemented, the entire audio design can end up to be a failure.
 
 #### Music
 

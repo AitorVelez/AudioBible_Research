@@ -65,7 +65,7 @@ Our small community is among the few that still remain on Earth. Our world is ov
 
 ## Main elements:
 
-You have to take into account the elements of Music, Sound-Design, Voice-Over, and Technology. In order to make a cohesive experience each element has to be taken into account and well balanced. If one element isn’t well implemented, the entire audio design can end up to be a failure.
+You have to take into account the elements of Music, Sound-Design and Voice-Over. In order to make a cohesive experience each element has to be taken into account and well balanced. If one element isn’t well implemented, the entire audio design can end up to be a failure.
 
 #### Music
 

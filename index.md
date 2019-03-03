@@ -25,7 +25,7 @@ As said before, sound effects can greatly contribute to player’s immersion. Wh
 
 
 
-## Things to take into account before starting:
+## Things to take into account for an indie desingner before starting:
 
 When being in an indie studio, usually there won’t be an expert audio designer so there are some points that can be very useful for designers that have to do audio design or for beginners.
 
@@ -40,12 +40,14 @@ There are a lot of websites that provide good sound effects, but if you want spe
 
 **Embrace sound yourself:**
 
-
-**Focus on what’s essential, the gameplay:**
-
+If you are part of an indie game studio,and you are not an expert in music, you will have to do a huge research and investigation about how does sound work in videogames, in order to know what are the aspects that you have to focus on. It would be really useful to have contact with a proffesional composer or sound designer to learn about them.
+ 
 **Make sure the sounds and music blend well:**
 
+Make sure that the sound effects respect the music’s tonality, so they don’t clash with one another. It’s a bit like how chords work when you’re playing the piano. With the wrong note interval, the sound will be dissonant. And you want to avoid that it possible.
+
 **Include sound early on into the game and get feedback on it:**
+Sound effects are a core part of the experience.That is why you should include them early on into the game. You want them to be tested, as anything else. It’s also easier to list all the sound you will need as you go.
 
 **Learn from the sound of other games:**
 

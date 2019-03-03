@@ -31,9 +31,15 @@ When being in an indie studio, usually there won’t be an expert audio designer
 
 **Check out those websites for quality free sounds:**
 
-There are a lot of websites that provide good sound effects, but if you want specific audio samples and tunes the study will have to spend some money in those.
+There are a lot of websites that provide good sound effects, but if you want specific audio samples and tunes the study will have to spend some money in those. Two reccomended websites: 
+
+
+[Incompetech](https://incompetech.com/music/royalty-free/collections.php): On this website there's an extensive list of tunes with different generes that you can use in your projects for free. Soundtracks are arranged in thematic collections to make it easier for you to find tracks that work well with one another.
+
+[Pixel Prospector](http://www.pixelprospector.com/the-big-list-of-royalty-free-music-and-sounds-free-edition/):Is another website that has a long list of royalty free music and souind effects. 
 
 **Embrace sound yourself:**
+
 
 **Focus on what’s essential, the gameplay:**
 

@@ -10,7 +10,7 @@ I am Aitor Velez Tolosa, student of the Bachelor’s Degree in Video Games by UP
 
 ## Importance of sound in videogames:
 
-**It gives signals to the player: **
+**It gives signals to the player:**
 
 Sound will help the player to react to the world. For example, if there are enemies inside a building, the player will have a hint that they are inside because he’s hearing them without being visible
 

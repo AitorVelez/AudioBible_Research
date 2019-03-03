@@ -57,7 +57,7 @@ Study the sound of other games like you would study their game mechanics. It mak
 
 
 
-## Elements to take into account:
+## Main elements:
 
 You have to take into account the elements of Music, Sound-Design, Voice-Over, and Technology. In order to make a cohesive experience each element has to be taken into account and well balanced. If one element isn’t well implemented, the entire audio design can end up to be a failure.
 
@@ -165,4 +165,16 @@ As for the implementation, we will have to be aware of how many layers will we n
 
 
 ## References
+
+[Writing an audio design document](http://zacharyquarles.com/blog/?p=518)
+
+[Responsabilities of an audio designer](http://www.dadiu.dk/audio-designer)
+
+[Indie audio design](https://gameanalytics.com/blog/9-sound-design-tips-to-improve-your-games-audio.html)
+
+[Audio Bible Example](https://issuu.com/rocket_powered_hippo/docs/sounddesignfinal)
+
+[Audio Bible Example2](https://ashleemccarthy.wordpress.com/2013/06/06/sound-design-document/)
+
+[Game Audio Design](https://annesoaudio.com/category/category-1/game-audio/)
 

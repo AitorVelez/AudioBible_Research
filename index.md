@@ -1,40 +1,108 @@
-“I am Aitor Velez Tolosa, student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of lecturer Ricard Pillosu.”
+I am Aitor Velez Tolosa, student of the Bachelor’s Degree in Video Games by UPC at CITM. This content is generated for the second year subject Project 2, under supervision of lecturer Ricard Pillosu.
+
+### The audio designer and its responsibilities:
+
+-He is responsible for all the overall game sound including music and sound effects.
+-His goal is to design the game sound so that it supports the gameplay and the player’s experience of the game according to the criteria laid down in the audio bible.
+-Audio designer has to gather all sound material for the game.
+- The Audio Designer, in collaboration with the Game Programmer, must make sure that sounds and music functions inside the game engine.
+-The Audio Designer is responsible for the sound-design-related aspects of the design document and the audio bible.
+
+### Importance of sound in videogames:
+
+It gives signals to the player: 
+Sound will help the player to react to the world. For example, if there are enemies inside a building, the player will have a hint that they are inside because he’s hearing them without being visible
+
+It provides the player instant feedback:
+Everything in that the player does in the world will have an auditive response, if he walks, he will hear steps, if he shots, we will actually hear shots, what will help to create an immersive experience.
+
+Music is a powerful tool to drive emotion:
+As said before, sound effects can greatly contribute to player’s immersion. When sound design is well done, you don’t realise, but a bad sound design can drive a good game into a bad experience.
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AitorVelez/AudioBible_Research/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Things to take into account before starting:
 
-### Markdown
+When being in an indie studio, usually there won’t be an expert audio designer so there are some points that can be very useful for designers that have to do audio design or for beginners.
+Check out those websites for quality free sounds:
+There are a lot of websites that provide good sound effects, but if you want specific audio samples and tunes the study will have to spend some money in those.
+Embrace sound yourself:
+Focus on what’s essential, the gameplay:
+Make sure the sounds and music blend well:
+Include sound early on into the game and get feedback on it:
+ Learn from the sound of other games:
+Here’s the audio budget of 5 independent game studios:
+Keep It Sweet and Short:
+lower the volume:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AitorVelez/AudioBible_Research/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### How to start an Audio Bible:
 
-### Support or Contact
+You have to take into account the elements of Music, Sound-Design, Voice-Over, and Technology. In order to make a cohesive experience each element has to be taken into account and well balanced. If one element isn’t well implemented, the entire audio design can end up to be a failure.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Elements to take into account:
+
+#### Music
+-Style: It is of paramount importance to choose the proper style for every single moment. In the middle of a battle the music that would suit could be an orchestral music, which can give the scene an epic tone. What’s more, when choosing another style like rock, it can be overwhelming for the player, and a balance will have to be made, alternating with all other elements such as voice, ambience or even silence.
+
+-Instrumentation: What instruments will be performing the themes that the designers have chosen. There’s a big difference between each instrument and the way it sounds, and it definitely can change player’s feels during the game.
+
+-Recording/Tech aspects: How will the music be recorded? Is it recorded as several dozen individual tracks?  Is it one performance of a big orchestra?  Are there solo instruments? 
+
+-Implementation:
+
+#### Sound Design
+
+-Ambience: How is the sound that prevails in the world? Are you on a sci-fi alien planet with moaning winds and twisting thunder crackling around in the skies above?  Maybe it’s in an interrogation room where you only hear some ventilation.
+
+-Weapons/Items: What kind of items does the player have and use? Are they ordinary guns (machine guns, guns) or special weapons with just one sound. Every time the player uses an item will it have a special sound?
+
+Creatures/Enemies: What creatures will the player face? Enemies, NPC’s? What sound will they have?   Are they big, drooling, roaring alien creatures that come bursting out of the stone floors and swarm up to cover the player in terrible, terrible insect spawn? 
+
+Visual Effects: All visual effects must have its proper sound. For example, if you are in a sewer system where there are steam blasts, dripping goo, rushing water, and the gas main explosion that catches everyone on fire, you will have to think about all this effects.
+
+Players: There are a lot of games that have a main player, if it is a character, you will need running, jumping, sliding effects. Also footsteps, pain, death. This can’t be directly applied in games that don’t have a main player. For example, in a car game this sounds would be replaced by a great variety of engine sounds, brakes and tyres.
+
+#### Voice Over and Dialogues
+In this part of the document there will be some things that must be attended:
+-How many people will be needed for the creation of the voices
+-Types of voices required, ranging age, gender, tone, etc. Each voice has its different frequencies and timber qualities, and it’s important to know what voices suit your game.
+-Artificial Voices: robots, aliens and all kind of creatures might have a voice that will have to be tuned by computer.
+
+### Technology
+
+ (mirar technology web)
+
+(Mirar el pdf del document I explicar pas per pas)
+(buscar exemples de jocs)
+(pensar en el exercici)
+(fer la presentacio)
+
+
+### Establish Reference Material
+Taking points of reference can help to establish goals for the audio direction, having clips, music or voice over as references. Using storyboards, you can gather audio assets that may suit the scene, this could be a starting point to help you figure out what your sonic palate will feel like. This will make designers create a path to follow and a way to start the design. This process can be beneficial, because designers will realise what sounds do they really need, and what sounds they don’t.
+
+### Establish Technology Requirements
+
+As mentioned before, is vital to know which are your technological limitations, and what will be the tech requirements that your project will need.
+
+List of things to keep in mind regarding technology:
+
+* Number of platforms that need to be supported
+* Multiplayer requirements (Over network?  Split-screen?  How many players?)
+* Memory and streaming limitations
+* Channel count limitations
+* DSP options
+* Environmental Effects (DSP)
+* Occlusion/Occluding options
+* Dynamic Mix options
+As for the implementation, we will have to be aware of how many layers will we need. How many sounds will be playing at the same moment?

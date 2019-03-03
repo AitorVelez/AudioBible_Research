@@ -2,11 +2,11 @@ I am Aitor Velez Tolosa, student of the Bachelor’s Degree in Video Games by UP
 
 ## The audio designer and its responsibilities:
 
--He is responsible for all the overall game sound including music and sound effects.
--His goal is to design the game sound so that it supports the gameplay and the player’s experience of the game according to the criteria laid down in the audio bible.
--Audio designer has to gather all sound material for the game.
-- The Audio Designer, in collaboration with the Game Programmer, must make sure that sounds and music functions inside the game engine.
--The Audio Designer is responsible for the sound-design-related aspects of the design document and the audio bible.
+* He is responsible for all the overall game sound including music and sound effects.
+* His goal is to design the game sound so that it supports the gameplay and the player’s experience of the game according to the     criteria laid down in the audio bible.
+* Audio designer has to gather all sound material for the game.
+* The Audio Designer, in collaboration with the Game Programmer, must make sure that sounds and music functions inside the game engine.
+* The Audio Designer is responsible for the sound-design-related aspects of the design document and the audio bible.
 
 ## Importance of sound in videogames:
 
@@ -31,7 +31,7 @@ When being in an indie studio, usually there won’t be an expert audio designer
 
 **Check out those websites for quality free sounds:**
 
-**There are a lot of websites that provide good sound effects, but if you want specific audio samples and tunes the study will have to spend some money in those.**
+There are a lot of websites that provide good sound effects, but if you want specific audio samples and tunes the study will have to spend some money in those.
 
 **Embrace sound yourself:**
 

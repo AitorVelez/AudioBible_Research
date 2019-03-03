@@ -121,5 +121,51 @@ List of things to keep in mind regarding technology:
 * Dynamic Mix options
 As for the implementation, we will have to be aware of how many layers will we need. How many sounds will be playing at the same moment?
 
+## Audio Bible Structure
+
+1 Audio Overview
+
+        1.1	Music
+        1.2	Sounds(SFX)
+        1.3	Dialogue
+        
+2	Defining audio content
+       
+        2.1	What parts of the game should have music?
+        2.2	What style of music is best for this game?
+        2.3	When should the music be ambient and when should it be intense¿
+        2.4	How will the music to transition?
+        2.5	Are character themes appropriate?
+        2.6	Are there aspects of the gameplay that would benefit from the music?
+        
+3	Audio inspiration (All game references that you will take)
+
+4	Audio Design Direction
+
+        4.1	Music direction
+        4.2	Themes
+        4.3	Technical Requirements
+        4.4	Production process pipelines
+        
+               4.4.1	Music Production Pipeline
+               4.4.2	Vocal Production Pipeline
+               4.4.3	SFX Production pipeline
+        4.5	Functionality and Adaptability
+        
+5	Implementation Guide
+
+        5.1	Audio engines
+        5.2	Audio Layers
+        
+6	Content Descriptions
+
+        6.1	SFX
+        6.2	Music
+        6.3	Dialogue
+        
+7 Audio assets
+
+
+
 ## References
 
